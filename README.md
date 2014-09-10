@@ -5,7 +5,7 @@ Xcode Plugin, Templates and Test Runner for Silver Programming Language from Rem
 
 At this point this is just a placeholder to collect some ideas.  The basic vision is to build Android apps with the Swift langauge from within Xcode.  That is using Xcode to manage the project, edit files, build the APK, launch the ADB debugger and simulators, run XCTest suites against Android version of a project.
 
-I the invisioned project organization:
+The invisioned project organization:
 ```
    Xcode Workspace
       Common Swift Code Project
