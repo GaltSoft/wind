@@ -1,0 +1,8 @@
+/Volumes/DATA/VMShare/WORKSPACE/Swift/org.me.androidapplication/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Volumes/DATA/VMShare/WORKSPACE/Swift/org.me.androidapplication/bin/Debug/org.me.androidapplication.jar
+/Volumes/DATA/VMShare/WORKSPACE/Swift/org.me.androidapplication/obj/Debug/org.me.androidapplication.jar
+/Volumes/DATA/VMShare/WORKSPACE/Swift/org.me.androidapplication/bin/Debug/swift.jar
+/Volumes/DATA/VMShare/WORKSPACE/iOS/GitHub/SilverSwift/Test Project/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.pas
+/Volumes/DATA/VMShare/WORKSPACE/iOS/GitHub/SilverSwift/Test Project/bin/Debug/org.me.androidapplication.jar
+/Volumes/DATA/VMShare/WORKSPACE/iOS/GitHub/SilverSwift/Test Project/obj/Debug/org.me.androidapplication.jar
+/Volumes/DATA/VMShare/WORKSPACE/iOS/GitHub/SilverSwift/Test Project/bin/Debug/swift.jar
